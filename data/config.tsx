@@ -21,7 +21,7 @@ const siteConfig = {
       },
       {
         id: 'pricing',
-        label: 'Pricing',
+        label: 'Pricingxxx',
       },
       {
         id: 'faq',
