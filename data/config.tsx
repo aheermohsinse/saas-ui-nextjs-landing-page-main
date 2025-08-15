@@ -25,10 +25,10 @@ const siteConfig = {
       },
       {
         id: 'faq',
-        label: 'FAQ',
+        label: 'FAQx',
       },
       {
-        label: 'Login',
+        label: 'Loginz',
         href: '/login',
       },
       {
